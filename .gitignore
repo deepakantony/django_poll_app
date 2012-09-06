@@ -2,3 +2,9 @@
 *.db
 *.sqlite
 *.sql
+
+# pyc files
+*.pyc
+
+# emacs temp file
+*.*~
