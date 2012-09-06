@@ -15,3 +15,6 @@ python manage.py syncdb
 ```
 
 * TODO continue instructions
+
+
+Based on the tutorial https://docs.djangoproject.com/en/1.4/intro/tutorial01/
