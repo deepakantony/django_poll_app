@@ -1,4 +1,4 @@
-django_poll_app
+django poll app
 ===============
 
-a simple django app to get me started
+a simple django app to get me started with django
