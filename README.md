@@ -9,7 +9,9 @@ Running this app
 
 * install django
 * clone this repo :)
+```bash
 cd <path to the cloned dir>
 python manage.py syncdb
+```
 
 * TODO continue instructions
